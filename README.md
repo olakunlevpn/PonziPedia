@@ -27,10 +27,20 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
 <strong>Easy &amp; Notofication:</strong> Support email Notification on all user activities.</li>
   <li>
 <strong>Periodic Margin </strong>: Fully Automated Matching System.</li>
+      <li>
+<strong>POF Upload </strong>: Payment proof uplaod by all members after payment.</li>
   <li>
-<strong>User Profit </strong>: Easy to Donate SomeOne and get paid autmatically Periodic.</li>
+       <li>
+<strong>Activation Fees System</strong>: New members will pay activations fees for account activation.</li>
+  <li>
+     <li>
+<strong>Notification System</strong>: Display live members activities with our notofication system.</li>
+  <li>
+<strong>User Profit </strong>: Easy to Donate Someone and get paid autmatically Periodic.</li>
   <li>
 <strong>User Dashboard</strong>: Informative User Dashboard.</li>
+ <li>
+<strong>User testimony</strong>: Live member testimony with like and dislike system reactions.</li>
   <li>
 <strong>Bank System</strong>: Auto Generate user Account Number And Balance System</li>
   <li>
@@ -39,6 +49,11 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
 <strong>Full Authentication</strong>: The script provides the complete functionality for authentication: Log in, Sign up, Email Activation and Password Recover.</li>
  <li>
 <strong>Get Support</strong>: Fully responsive support system in-built live message and tickets support</li>
+ <li>
+<strong>Message System</strong>: Fully responsive support message system live chatting In-Built</li>
+  <li>
+    <li>
+<strong>Court Case</strong>: Ability to drag member to case if failure to pay or fake POF</li>
   <li>
 <strong>Duscussion</strong>: User can create interact with comments on in-built discussion board.</li>
   <li>Fully responsive for all devices, browsers.</li>
