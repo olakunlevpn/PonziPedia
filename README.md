@@ -8,9 +8,9 @@ PonziPedia is fast, secured, and it will be regularly updated.<br>
 <blockquote>Check out the complete features online <a href="http://ponzipedia.ml" rel="nofollow">Online Demo</a>
 </blockquote>
 <blockquote>2 Support System included!</blockquote><br><br>
-<img src="https://ponzipedia.ml/images/screens/desc-main-Recoveredko.png">
-<img src="https://ponzipedia.ml/images/screens/image7.png">
-<a href="https://ponzipedia.ml" rel="nofollow"><img src="https://ponzipedia.ml/images/screens/image101.png"></a><br><br>
+<img src="https://ponzipedia.ml/images/desc-main-Recoveredko.png">
+<img src="https://ponzipedia.ml/images/image7.png">
+<a href="https://ponzipedia.ml" rel="nofollow"><img src="https://ponzipedia.ml/images/image101.png"></a><br><br>
 PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5qvuuOrhBk" rel="nofollow">Watch how to install PonziPedia</a><br> Online Documentation <a href="http://docs.maylancer.cf">Installation Guides</a><br>
 <br>
 <h2 id="item-description__user-features-demo">User Features  (<a href="https://ponzipedia.ml" rel="nofollow">Demo</a>)</h2>
@@ -109,7 +109,7 @@ Internationalization (optional)<br>
 <blockquote>
   Please send us your product presale query, after sales developer support request, customization request and any other queries to support: 
 </blockquote>
-<a href="https://support.maylancer.cf" rel="nofollow"><img src="https://ponzipedia.ml/images/screens/247.png"></a><br>
+<a href="https://support.maylancer.cf" rel="nofollow"><img src="https://ponzipedia.ml/images/247.png"></a><br>
 <h2 id="item-description__updates">Updates</h2>
 <h5 id="item-description__version-1-5-5-2-04-06-2018">
 <strong>Version 1.0 </strong> 04/18/2018</h5>
