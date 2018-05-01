@@ -8,6 +8,7 @@ PonziPedia is fast, secured, and it will be regularly updated.<br>
 <blockquote>Check out the complete features online <a href="http://ponzipedia.ml" rel="nofollow">Online Demo</a>
 </blockquote>
 <blockquote>2 Support System included!</blockquote><br><br>
+<img src="https://ponzipedia.ml/images/gradient-bg-Recovered.png">
 <img src="https://ponzipedia.ml/images/desc-main-Recoveredko.png">
 <img src="https://ponzipedia.ml/images/image7.png">
 <a href="https://ponzipedia.ml" rel="nofollow"><img src="https://ponzipedia.ml/images/image101.png"></a><br><br>
