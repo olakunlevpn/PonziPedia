@@ -110,7 +110,7 @@ Internationalization (optional)<br>
 <blockquote>
   Please send us your product presale query, after sales developer support request, customization request and any other queries to support: 
 </blockquote>
-<a href="https://facebook.com/olakunlevpn" rel="nofollow"><img src="https://ponzipedia.ml/images/247.png"></a><br>
+<a href="https://support.maylancer.cf" rel="nofollow">Contact Me Here</a><br>
 <h2 id="item-description__updates">Updates</h2>
  <h5 id="item-description__version-1-5-5-2-04-06-2018">
 <strong>Version 1.5 </strong> 05/02/2018</h5>
