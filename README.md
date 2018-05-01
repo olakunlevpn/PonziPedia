@@ -31,9 +31,8 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
       <li>
 <strong>POF Upload </strong>: Payment proof uplaod by all members after payment.</li>
   <li>
-       <li>
 <strong>Activation Fees System</strong>: New members will pay activations fees for account activation.</li>
-  <li>
+
      <li>
 <strong>Notification System</strong>: Display live members activities with our notofication system.</li>
   <li>
@@ -52,7 +51,6 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
 <strong>Get Support</strong>: Fully responsive support system in-built live message and tickets support</li>
  <li>
 <strong>Message System</strong>: Fully responsive support message system live chatting In-Built</li>
-  <li>
     <li>
 <strong>Court Case</strong>: Ability to drag member to case if failure to pay or fake POF</li>
   <li>
