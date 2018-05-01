@@ -4,7 +4,7 @@ PonziPedia - Peer 2 Peer 50% ROI Donation System script
         <div class="js-item-description item-description has-toggle">
           <div class="user-html"><p><strong><a href="http://ponzipedia.ml" rel="nofollow">PonziPedia</a></strong> - Peer 2 Peer 50% ROI Donation System script, PonziPedia is the best way to start your own pair 2 pair donation website!<br>
 PonziPedia is fast, secured, and it will be regularly updated.<br>
-</p><blockquote>PonziPedia initial release v1.0</blockquote>
+</p><blockquote>PonziPedia initial release v1.5</blockquote>
 <blockquote>Check out the complete features online <a href="http://ponzipedia.ml" rel="nofollow">Online Demo</a>
 </blockquote>
 <blockquote>2 Support System included!</blockquote><br><br>
@@ -111,8 +111,58 @@ Internationalization (optional)<br>
 </blockquote>
 <a href="https://support.maylancer.cf" rel="nofollow"><img src="https://ponzipedia.ml/images/247.png"></a><br>
 <h2 id="item-description__updates">Updates</h2>
+ <h5 id="item-description__version-1-5-5-2-04-06-2018">
+<strong>Version 1.5 </strong> 05/02/2018</h5>
+<blockquote>
+<li> Added: Member Court Case</li>
+<li> Added: Support Tickets System</li>
+<li> Improved: Website speed with 99%</li>
+<li> Fixed: Reported Bugs..</li>
+<li> & much more...</li>
+</blockquote>
+ <h5 id="item-description__version-1-5-5-2-04-06-2018">
+<strong>Version 1.4 </strong> 04/28/2018</h5>
+<blockquote>
+<li> Added: Member payment Logs</li>
+<li> Improved: Admin Panel Core Settings</li>
+<li> Fixed: Reported Bugs..</li>
+<li> & much more...</li>
+</blockquote>
 <h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.0 </strong> 04/18/2018</h5>
+<strong>Version 1.3 </strong> 04/20/2018</h5>
+<blockquote>
+<li> Added: Member Testimony like/dislike Reactions</li>
+<li> Improved: Force Testimony Before Payment Confirmation </li>
+<li> Added: Real Live Support Chats In-Built Support</li>
+<li> Improved: Admin Panel live chats</li>
+<li> Fixed: Some Bugs..</li>
+<li> & much more...</li>
+</blockquote>
+ <h5 id="item-description__version-1-5-5-2-04-06-2018">
+<strong>Version 1.2 </strong> 04/20/2018</h5>
+<blockquote>
+<li> Added: Member Testimony system</li>
+<li> Added: Force Testimony Before Payment Confirmation</li>
+<li> Added: Email Notification on members activities</li>
+<li> Improved: Admin Panel</li>
+<li> Improved: Website Design</li>
+<li> Improved: FrontEnd Design</li>
+<li> Fixed: Some Bugs..</li>
+<li> & much more...</li>
+</blockquote>
+<h5 id="item-description__version-1-5-5-2-04-06-2018">
+<strong>Version 1.1 </strong> 03/12/2018</h5>
+<blockquote>
+<li> Added: Activation Fees system</li>
+<li> Added: Invitation Codes (Open/Close Registration)</li>
+<li> Added: Automatic Margin system</li>
+<li> Added: Referral system</li>
+ <li> Added: Guider Members system</li>
+<li> Fixed: All Reported Bugs</li>
+<li> Improved: Website speed with 99%</li>
+</blockquote>
+<h5 id="item-description__version-1-5-5-2-04-06-2018">
+<strong>Version 1.0 </strong> 01/08/2018</h5>
 <blockquote>
 <li> Initial Release</li>
 </blockquote>
