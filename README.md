@@ -30,7 +30,7 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
 <strong>Periodic Margin </strong>: Fully Automated Matching System.</li>
 <li><strong>POF Upload </strong>: Payment proof uplaod by all members after payment.</li>
 <li><strong>Activation Fees System</strong>: New members will pay activations fees for account activation.</li>
-<li><strong>Notification System</strong>: Display live members activities with our notofication system.</li>
+<li><strong>Notification System</strong>: Display live members activities with our notification system.</li>
 <li><strong>User Profit </strong>: Easy to Donate Someone and get paid autmatically Periodic.</li>
 <li><strong>User Dashboard</strong>: Informative User Dashboard.</li>
 <li><strong>User testimony</strong>: Live member testimony with like and dislike system reactions.</li>
